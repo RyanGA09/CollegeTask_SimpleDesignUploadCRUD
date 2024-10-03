@@ -1,6 +1,6 @@
 # Simple Design Upload CRUD
 
-A simple application to manage designer data and design works. This project allows users to add, update, and delete designer information, as well as upload design files.
+A user-friendly application designed to manage designer data and their creative works. This project enables users to easily add, update, and delete designer profiles, while also providing the functionality to upload and organize design files efficiently. With an intuitive interface, users can maintain an up-to-date portfolio, enhancing collaboration and showcasing their artistic talents.
 
 ## Features
 
@@ -93,6 +93,6 @@ Open a pull request from your branch to the main branch of the original reposito
 
 Feel free to replace the placeholders with your actual details, and let me know if you need further assistance! please contact me at [Gmail](mailto:ryangabdullah9@gmail.com).
 
-## Support Me
+<!-- ## Support Me
 
-[Saweria](https://saweria.co/en)
+[Saweria](https://saweria.co/en) -->
