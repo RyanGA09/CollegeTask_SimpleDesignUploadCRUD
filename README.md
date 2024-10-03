@@ -1,6 +1,6 @@
 # Simple Design Upload CRUD
 
-A user-friendly application designed to manage designer data and their creative works. This project enables users to easily add, update, and delete designer profiles, while also providing the functionality to upload and organize design files efficiently. With an intuitive interface, users can maintain an up-to-date portfolio, enhancing collaboration and showcasing their artistic talents.
+A simple application to efficiently manage designer data and their design works. This project allows users to easily add, update, and delete designer information, as well as upload and manage design files. With a straightforward interface, users can maintain accurate records of designers and their creations, fostering better organization and accessibility of creative assets.
 
 ## Features
 
