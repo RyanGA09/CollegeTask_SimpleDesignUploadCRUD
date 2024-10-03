@@ -85,9 +85,9 @@ Open a pull request from your branch to the main branch of the original reposito
 
 ## License
 
-<!-- [MIT LICENSE](LICENSE) -->
+[MIT LICENSE](LICENSE)
 
-&copy;2024 Ryan Gading Abdullah
+&copy;2022 Ryan Gading Abdullah
 
 ## Contact
 
