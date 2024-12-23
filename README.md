@@ -2,6 +2,8 @@
 
 This is a Simple Design Upload CRUD as my assignment to study Web Programming in College in 2023. The project allows users to efficiently manage designer data and their design works by providing a simple interface to add, update, and delete designer information, as well as upload and manage design files. This application helps maintain accurate records of designers and their creations, promoting better organization and accessibility of creative assets.
 
+Tech Stack: HTML, PHP, Assets (CSS & JS), & DATABASE
+
 ## Features
 
 - **Add Designer**: A form to input name, email, gender, and upload a design file (PNG, JPG, JPEG).
