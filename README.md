@@ -1,4 +1,4 @@
-# Simple Design Upload CRUD
+# College Task - Simple Design Upload CRUD
 
 A simple application to efficiently manage designer data and their design works. This project allows users to easily add, update, and delete designer information, as well as upload and manage design files. With a straightforward interface, users can maintain accurate records of designers and their creations, fostering better organization and accessibility of creative assets.
 
