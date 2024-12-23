@@ -20,7 +20,7 @@ A simple application to efficiently manage designer data and their design works.
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/username/SimpleDesignUploadCRUD.git
+   git clone https://github.com/RyanGA09/CollegeTask_SimpleDesignUploadCRUD.git
    ```
 
    (Replace username with your GitHub username)
@@ -158,7 +158,7 @@ Important: When contributing, please create a new branch for your changes instea
       git push -u origin your-feature-branch
       ```
 
-   <!-- 4. Merge changes back to the main branch:
+   4. Merge changes back to the main branch:
       If you have write access to the main repository, you can merge your changes back to the main branch:
       ```bash
       git checkout main
@@ -169,20 +169,12 @@ Important: When contributing, please create a new branch for your changes instea
       After merging, you can delete the feature branch to keep the repository clean:
       ```bash
       git branch -d your-feature-branch
-      ``` -->
+      ```
 
 **_By following these guidelines, you help maintain a clean and manageable project history._**
 
 ## License
 
-[MIT LICENSE](LICENSE)
-
 &copy;2022 Ryan Gading Abdullah. All rights reserved.
 
-## Contact
-
-Feel free to replace the placeholders with your actual details, and let me know if you need further assistance! please contact me at [Gmail](mailto:ryangabdullah9@gmail.com).
-
-<!-- ## Support Me
-
-[Saweria](https://saweria.co/en) -->
+This project is licensed under the MIT License - see the [MIT LICENSE](LICENSE) for details.
