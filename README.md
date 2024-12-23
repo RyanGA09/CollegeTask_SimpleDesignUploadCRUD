@@ -1,6 +1,6 @@
 # College Task - Simple Design Upload CRUD
 
-A simple application to efficiently manage designer data and their design works. This project allows users to easily add, update, and delete designer information, as well as upload and manage design files. With a straightforward interface, users can maintain accurate records of designers and their creations, fostering better organization and accessibility of creative assets.
+This is a Simple Design Upload CRUD as my assignment to study Web Programming in College in 2023. The project allows users to efficiently manage designer data and their design works by providing a simple interface to add, update, and delete designer information, as well as upload and manage design files. This application helps maintain accurate records of designers and their creations, promoting better organization and accessibility of creative assets.
 
 ## Features
 
@@ -175,6 +175,6 @@ Important: When contributing, please create a new branch for your changes instea
 
 ## License
 
-&copy;2022 Ryan Gading Abdullah. All rights reserved.
+&copy;2023 Ryan Gading Abdullah. All rights reserved.
 
 This project is licensed under the MIT License - see the [MIT LICENSE](LICENSE) for details.
