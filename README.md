@@ -25,8 +25,6 @@ Tech Stack: HTML, PHP, Assets (CSS & JS), & DATABASE
    git clone https://github.com/RyanGA09/CollegeTask_SimpleDesignUploadCRUD.git
    ```
 
-   (Replace username with your GitHub username)
-
 2. **Setup Database**
 
    - Create a Database & Table
@@ -50,7 +48,6 @@ Tech Stack: HTML, PHP, Assets (CSS & JS), & DATABASE
       design_url VARCHAR(200),
       time_added DATETIME
    );
-
    ```
 
    - Import the provided SQL file (upload_design.sql) to create the necessary database and table structure.
@@ -64,7 +61,6 @@ Tech Stack: HTML, PHP, Assets (CSS & JS), & DATABASE
    <?php
     $connected = mysqli_connect("localhost", "root", "", "webdesign");
    ?>
-
    ```
 
    - Modify the username, password, and database name if necessary to match your local setup.
@@ -72,7 +68,6 @@ Tech Stack: HTML, PHP, Assets (CSS & JS), & DATABASE
 4. **Run the Application**
 
    You can run the application using a local server:
-
    - XAMPP: Place the project folder in the htdocs directory and access it via [XAMPP](http://localhost/simpleDesignUploadCRUD/).
    - Laragon: Place the project folder in the www directory and access it via [Laragon](http://localhost/simpleDesignUploadCRUD/) (assuming the project name is webdesign).
    - Other Local Servers: If you're using another local server setup, ensure the project files are placed in the appropriate directory for that server, and access it using the corresponding URL (e.g., [http://localhost/simpleDesignUploadCRUD/]).
@@ -83,7 +78,7 @@ Feel free to fork the repository and submit pull requests, or make changes direc
 
 Important: When contributing, please create a new branch for your changes instead of pushing directly to the main branch. To do this:
 
-1. With Forking:
+1. **With Forking:**
 
    1. Fork Repository
       On the project page you want to contribute to, click the "Fork" button in the upper right corner. This will create a copy of the repository in your GitHub account.
@@ -133,7 +128,7 @@ Important: When contributing, please create a new branch for your changes instea
    - Select your branch from your fork as the source (base) and the main branch from the original repository as the target (compare).
    - Provide a suitable description and submit the pull request.
 
-2. Without Forking
+2. **Without Forking:**
 
    1. Create a new branch
       Create a new branch for the feature or bug fix you want to add:
@@ -162,13 +157,18 @@ Important: When contributing, please create a new branch for your changes instea
 
    4. Merge changes back to the main branch:
       If you have write access to the main repository, you can merge your changes back to the main branch:
+
       ```bash
       git checkout main
+      ```
+      
+      ```bash
       git merge your-feature-branch
       ```
 
-   5. (Optional) Delete the branch after merging:
+   6. (Optional) Delete the branch after merging:
       After merging, you can delete the feature branch to keep the repository clean:
+
       ```bash
       git branch -d your-feature-branch
       ```
@@ -177,6 +177,6 @@ Important: When contributing, please create a new branch for your changes instea
 
 ## License
 
-&copy;2023 Ryan Gading Abdullah. All rights reserved.
+&copy; 2023 Ryan Gading Abdullah. All rights reserved.
 
 This project is licensed under the MIT License - see the [MIT LICENSE](LICENSE) for details.
